@@ -38,4 +38,4 @@ let romanToInt = function (s) {
   return sum;
 };
 
-console.log(romanToInt("IIV"));
+console.log(romanToInt("XL"));
